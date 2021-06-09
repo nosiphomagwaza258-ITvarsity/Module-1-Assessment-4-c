@@ -1,0 +1,13 @@
+th{
+    font-weight: 900;
+    background-color: deeppink;
+    color: azure;
+}
+
+table{
+    font-family: Helvetica,sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: coral;
+}
